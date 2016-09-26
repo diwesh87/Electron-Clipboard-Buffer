@@ -1,0 +1,14 @@
+{
+  "name": "clipboard-demo",
+  "version": "1.0.0",
+  "description": "Clipboard Buffer App",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Diwesh Saxena",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.1"
+  }
+}
